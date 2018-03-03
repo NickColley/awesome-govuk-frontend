@@ -67,5 +67,10 @@ Single purpose components
 ## Prototyping
 - [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit) - The prototype kit provides a simple way to make interactive prototypes that look like pages on GOV.UK. [govuk-elements-sass, govuk_frontend_toolkit, govuk_template_jinja]
 
+## User-facing Frontend applications
+- [www.GOV.UK (not any service.gov.uk domain pages)](https://docs.publishing.service.gov.uk/#frontend-apps)
+- [GOV.UK Verify](https://github.com/alphagov/verify-frontend)
+- [GOV.UK Pay](https://github.com/alphagov/pay-frontend)
+
 ## Useful tools
 - https://libraries.io/search?q=govuk
