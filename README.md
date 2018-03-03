@@ -1,6 +1,6 @@
 # Awesome GOV.UK Frontend
 
-(Still a Work in progress, but eventually would be good to have as an 'official' [awesome list](https://github.com/sindresorhus/awesome))
+(Still a work in progress, but eventually would be good to have as an 'official' [awesome list](https://github.com/sindresorhus/awesome))
 
 Curated list of GOV.UK related frontend ecosystem.
 
