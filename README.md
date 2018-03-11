@@ -55,6 +55,7 @@ This list will be pruned over time and should represent active or well maintaine
 #### Ruby
 - [GOV.UK Publishing Components](https://github.com/alphagov/govuk_publishing_components) - GDS GOV.UK Publishing team (Team that maintains the www.GOV.UK bit of GOV.UK), A gem to document and distribute components in GOV.UK Publishing frontend applications  https://govuk-publishing-components.herokuapp.com/component-guide [govuk_frontend_toolkit]
 - [GovukElementsFormBuilder](https://github.com/ministryofjustice/govuk_elements_form_builder) - Form builder helper methods to develop GOV.UK elements styled applications in Ruby on Rails https://govuk-elements-rails-guide.herokuapp.com/ [govuk_elements_rails, govuk_frontend_toolkit]
+- [Jekyll theme](https://github.com/frankieroberto/govuk-jekyll-theme)
 
 ### Other
 - [IPO Assets](https://github.com/intellectual-property-office/Assets) - This project is used to build the UK Intellectual Property Office frontend UI styling. [govuk-elements-sass, govuk_template_ejs]
@@ -63,6 +64,9 @@ This list will be pruned over time and should represent active or well maintaine
 ## Components
 Single purpose components
 - [Accessible Autocomplete](https://github.com/alphagov/accessible-autocomplete) - An autocomplete component, built to be accessible. https://alphagov.github.io/accessible-autocomplete/examples
+- [Government organisations autocomplete](https://github.com/frankieroberto/govuk-government-organisations-autocomplete) - Built on top of Accessible Autocomplete for use to select government organisations (eg Departments).
+- [Accordion component](https://github.com/frankieroberto/accordion) a stand-alone extraction of the accordion component
+- [Sortable tables](https://github.com/frankieroberto/sortable-table) - component for making tables sortable by clicking their column headers.
 
 ## Prototyping
 - [GOV.UK Prototype Kit](https://github.com/alphagov/govuk_prototype_kit) - The prototype kit provides a simple way to make interactive prototypes that look like pages on GOV.UK. [govuk-elements-sass, govuk_frontend_toolkit, govuk_template_jinja]
