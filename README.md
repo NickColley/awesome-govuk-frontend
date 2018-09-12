@@ -41,7 +41,7 @@ This list will be pruned over time and should represent active or well maintaine
 ##### React
 - [govuk-starter-kit](https://github.com/gdbarnes/govuk-starter-kit) - React app to generate files and markup to use in govuk applications [govuk-elements-sass, govuk_frontend_toolkit, govuk_template_jinja]
 - [govuk-react-components](https://github.com/lennym/govuk-react-components) - A set of react components to build the basic elements described in govuk-elements. [govuk_template_mustache, govuk-elements-sass]
-- [govuk-react](https://www.npmjs.com/package/govuk-react) - A port of the govuk-frontend components for React using Glamorous. http://penx.github.io/govuk-react/
+- [govuk-react](https://www.npmjs.com/package/govuk-react) - A port of the govuk-frontend components for React using Emotion (CSS in JS). https://ukhomeoffice.github.io/govuk-react/
 
 #### Python
 
