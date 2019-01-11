@@ -10,15 +10,7 @@ Have I missed something that should be here? Please let me know or open a pull r
 
 This list will be pruned over time and should represent active or well maintained projects.
 
-## Core libraries
-- [GOV.UK Elements](https://github.com/alphagov/govuk_elements) - GOV.UK Elements form the building blocks from which all pages are made. https://govuk-elements.herokuapp.com/
-  - [sass](https://www.npmjs.com/package/govuk-elements-sass)
-- [GOV.UK Template](https://github.com/alphagov/govuk_template) - Packaging of a template containing the GOV.UK header and footer, and associated assets. http://alphagov.github.io/govuk_template/
-  - [jinja](https://github.com/alphagov/govuk_template_jinja), [ejs](https://github.com/alphagov/govuk_template_ejs), [mustache](https://github.com/alphagov/govuk_template_mustache)
-- [GOV.UK Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit) - Generic tools and helpers for building GDS front-end apps
-  - [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem), [npm](https://github.com/alphagov/govuk_frontend_toolkit_npm), [composer](https://github.com/PurpleBooth/govuk_frontend_toolkit_composer)
-
-### Future
+### Core libraries
 - [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) - replacement for govuk_elements, govuk_template, govuk_frontend_toolkit. Private beta only.
 - [GOV.UK Design System](https://github.com/alphagov/govuk-design-system) - guidance and examples of components, styles and patterns you can use to design government platforms and services. [govuk-frontend]
 
@@ -78,3 +70,12 @@ Single purpose components
 
 ## Useful tools
 - https://libraries.io/search?q=govuk
+
+
+## Deprecate core libraries
+- [GOV.UK Elements](https://github.com/alphagov/govuk_elements) - GOV.UK Elements form the building blocks from which all pages are made. https://govuk-elements.herokuapp.com/
+  - [sass](https://www.npmjs.com/package/govuk-elements-sass)
+- [GOV.UK Template](https://github.com/alphagov/govuk_template) - Packaging of a template containing the GOV.UK header and footer, and associated assets. http://alphagov.github.io/govuk_template/
+  - [jinja](https://github.com/alphagov/govuk_template_jinja), [ejs](https://github.com/alphagov/govuk_template_ejs), [mustache](https://github.com/alphagov/govuk_template_mustache)
+- [GOV.UK Frontend Toolkit](https://github.com/alphagov/govuk_frontend_toolkit) - Generic tools and helpers for building GDS front-end apps
+  - [gem](https://github.com/alphagov/govuk_frontend_toolkit_gem), [npm](https://github.com/alphagov/govuk_frontend_toolkit_npm), [composer](https://github.com/PurpleBooth/govuk_frontend_toolkit_composer)
