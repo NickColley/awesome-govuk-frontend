@@ -11,7 +11,7 @@ Have I missed something that should be here? Please let me know or open a pull r
 This list will be pruned over time and should represent active or well maintained projects.
 
 ### Core libraries
-- [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) - replacement for govuk_elements, govuk_template, govuk_frontend_toolkit. Private beta only.
+- [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) - replacement for govuk_elements, govuk_template, govuk_frontend_toolkit.
 - [GOV.UK Design System](https://github.com/alphagov/govuk-design-system) - guidance and examples of components, styles and patterns you can use to design government platforms and services. [govuk-frontend]
 
 ## Downstream
