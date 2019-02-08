@@ -30,12 +30,13 @@ Curated list of GOV.UK related frontend ecosystem.
 - [GOV.UK Verify](https://github.com/alphagov/verify-frontend)
 - [GOV.UK Pay](https://github.com/alphagov/pay-frontend)
 
+  
 ## Deprecated
 
 Projects depending on the deprecated core libraries
 
-<summary>
-<details>Show deprecated</details>
+<details>
+<summary>Show deprecated</summary>
 
 ### Core libraries
 - [GOV.UK Elements](https://github.com/alphagov/govuk_elements) - GOV.UK Elements form the building blocks from which all pages are made. https://govuk-elements.herokuapp.com/
@@ -74,4 +75,4 @@ Projects depending on the deprecated core libraries
 - [IPO Assets](https://github.com/intellectual-property-office/Assets) - This project is used to build the UK Intellectual Property Office frontend UI styling. [govuk-elements-sass, govuk_template_ejs]
 - [HMRC Assets frontend](https://github.com/hmrc/assets-frontend) - Shared static assets for frontends on the Multichannel Digital Tax Platform http://hmrc.github.io/assets-frontend [govuk-elements-sass, govuk_frontend_toolkit, govuk_template]
 
-</summary>
+</details>
