@@ -1,3 +1,5 @@
+> # Archived in favour of: https://github.com/tijmenb/design-system-community-resources
+
 # Awesome GOV.UK Frontend
 
 Unofficial [awesome list](https://github.com/sindresorhus/awesome)).
