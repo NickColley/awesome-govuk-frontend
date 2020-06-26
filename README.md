@@ -14,6 +14,7 @@ Curated list of GOV.UK related frontend ecosystem.
 
 ### React
 - [govuk-react](https://github.com/govuk-react/govuk-react#readme) - A port of the govuk-frontend components for React.
+- [govuk-react-jsx](https://github.com/surevine/govuk-react-jsx) - A port of the govuk-frontend Nunjucks to lightweight JSX (Directly consuming govuk CSS/JS). See readme for more detailed comparison with govuk-react.
 
 ### Ruby
 - [GOV.UK Publishing Components](https://github.com/alphagov/govuk_publishing_components) - GDS GOV.UK Publishing team (Team that maintains the www.GOV.UK bit of GOV.UK), A gem to document and distribute components in GOV.UK Publishing frontend applications  https://govuk-publishing-components.herokuapp.com/component-guide [govuk_frontend_toolkit]
